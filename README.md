@@ -19,7 +19,7 @@ All actions should be executed from the source directory of the project and only
   docker build .
 ```
 
-2. Second create docker-compose file:
+2. Second write this command for docker-compose:
 ```
   docker-compose up
 ```
